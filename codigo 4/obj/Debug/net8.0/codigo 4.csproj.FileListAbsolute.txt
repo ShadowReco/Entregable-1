@@ -1,0 +1,14 @@
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable 1\codigo 4\bin\Debug\net8.0\codigo 4.exe
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable 1\codigo 4\bin\Debug\net8.0\codigo 4.deps.json
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable 1\codigo 4\bin\Debug\net8.0\codigo 4.runtimeconfig.json
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable 1\codigo 4\bin\Debug\net8.0\codigo 4.dll
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable 1\codigo 4\bin\Debug\net8.0\codigo 4.pdb
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable 1\codigo 4\obj\Debug\net8.0\codigo 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable 1\codigo 4\obj\Debug\net8.0\codigo 4.AssemblyInfoInputs.cache
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable 1\codigo 4\obj\Debug\net8.0\codigo 4.AssemblyInfo.cs
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable 1\codigo 4\obj\Debug\net8.0\codigo 4.csproj.CoreCompileInputs.cache
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable 1\codigo 4\obj\Debug\net8.0\codigo 4.dll
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable 1\codigo 4\obj\Debug\net8.0\refint\codigo 4.dll
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable 1\codigo 4\obj\Debug\net8.0\codigo 4.pdb
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable 1\codigo 4\obj\Debug\net8.0\codigo 4.genruntimeconfig.cache
+C:\Users\shado\OneDrive\Documentos\TdeA\6to Semestre\Construcción de Software 4\Entregable 1\codigo 4\obj\Debug\net8.0\ref\codigo 4.dll
